@@ -13,9 +13,7 @@ The project consists of multiple files:
 
 - `scraper.py` — Python script that scrapes book data and saves it in a SQLite database  
 - `books.db` — SQLite database containing the scraped book data  
-- `queries.sql` — Sample SQL queries for analysis  
-- `queries.py` — Optional Python script to run queries and see results in Python  
-- `requirements.txt` — Python dependencies  
+- `queries.sql` — Sample SQL queries for analysis    
 - `README.md` — Project documentation  
 
 The scraper demonstrates a full data workflow: **Scraping → Cleaning → Storage → Analysis**, showcasing skills in Python, web scraping, SQL, and data handling.
